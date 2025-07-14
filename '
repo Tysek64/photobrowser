@@ -1,0 +1,9 @@
+function next () {
+	document.getElementById("image").src = "/next";
+	document.getElementById("image").src = "/image";
+}
+
+function prev () {
+	document.getElementById("image").src = "/prev";
+	document.getElementById("image").src = "/image";
+}
